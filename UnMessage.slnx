@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UnMessage.Server/UnMessage.Server.csproj" />
+  <Project Path="UnMessage/UnMessage.csproj" />
+</Solution>
